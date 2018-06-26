@@ -1,5 +1,5 @@
 {
-    "name": "GlaivePro/Drafterer",
+    "name": "glaivepro/drafterer",
     "type": "library",
     "description": "Drafting upcoming versions for Eloquent models",
     "keywords": [
