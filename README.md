@@ -1,5 +1,7 @@
 # Drafterer
 
+> The development of this package is a bit postponed for now because of lack of time.
+
 Drafterer is a Laravel package that allows you to save a draft version of an Eloquent model. It can be used for previewing upcoming changes before commiting them. Also useful for autosaved version.
 
 ## Install
